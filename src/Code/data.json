@@ -1,0 +1,27 @@
+{
+    "events": [{
+            "title": "IoT Smart Home Basics",
+            "date": "12 March 2026",
+            "location": "Northampton",
+            "category": "IoT",
+            "description": "Introduction to sensors, microcontrollers, and smart home systems.",
+            "image": "../../assets/images/iot-workshop.jpg"
+        },
+        {
+            "title": "AI for Beginners (Practical Session)",
+            "date": "20 March 2026",
+            "location": "London",
+            "category": "AI",
+            "description": "Basic AI concepts and how AI is used in real applications.",
+            "image": "../../assets/images/ai-workshop.jpg"
+        },
+        {
+            "title": "IoT Security Workshop",
+            "date": "28 March 2026",
+            "location": "Online",
+            "category": "Cybersecurity",
+            "description": "Common IoT threats and simple ways to improve security.",
+            "image": "../../assets/images/cybersecurity-workshop.jpg"
+        }
+    ]
+}
