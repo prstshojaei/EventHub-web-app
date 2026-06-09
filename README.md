@@ -6,6 +6,22 @@ Built for the **Internet Programming** module at the **University of Northampton
 
 ---
 
+## Screenshots
+
+### Public Site
+![Public site](screenshots/public-site.png)
+
+### Admin Dashboard
+![Admin dashboard](screenshots/admin-dashboard.png)
+
+### Event Management
+![Event management](screenshots/event-management.png)
+
+### Admin Login
+![Admin login](screenshots/login.png)
+
+---
+
 ## Features
 
 **Public site**
@@ -46,8 +62,8 @@ The application runs entirely in Docker.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/prstshojaei/eventhub-web-app.git
-cd eventhub-web-app
+git clone https://github.com/prstshojaei/EventHub-web-app.git
+cd EventHub-web-app
 
 # 2. Start the containers
 docker compose up -d
