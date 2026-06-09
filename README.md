@@ -9,16 +9,16 @@ Built for the **Internet Programming** module at the **University of Northampton
 ## Screenshots
 
 ### Public Site
-![Public site](screenshots/public-site.png)
+![Public site](assets/images/7.png)
 
 ### Admin Dashboard
-![Admin dashboard](screenshots/admin-dashboard.png)
+![Admin dashboard](assets/images/2.png)
 
 ### Event Management
-![Event management](screenshots/event-management.png)
+![Event management](assets/images/3.png)
 
 ### Admin Login
-![Admin login](screenshots/login.png)
+![Admin login](assets/images/1.png)
 
 ---
 
